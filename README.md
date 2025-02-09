@@ -12,7 +12,7 @@ Was able to construct the key components of the Transformer using basic principl
 - Look-ahead Masking of the input values
 
 The model lacks :
-- Multi-Head meachanism
+- Multi-Head mechanism
 - Dropout Layers
 
 Tested tha model on multiple translations picked from the paragraph.
