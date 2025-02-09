@@ -15,4 +15,4 @@ The model lacks :
 - Multi-Head mechanism
 - Dropout Layers
 
-Tested tha model on multiple translations picked from the paragraph.
+Tested the model on multiple translations picked from the paragraph.
