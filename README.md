@@ -1,6 +1,6 @@
 # 🚀 Transformer Architecture
 
-This repository contains a modular implementation of a **Transformer model built entirely from scratch using NumPy**, without using PyTorch or TensorFlow.  
+This repository contains a modular implementation of a **Transformer model built entirely from scratch using NumPy leveraging OOPs concepts**, without using PyTorch or TensorFlow.  
 It also includes training notebooks, Word2Vec-based embeddings, and utilities for low-level neuron analysis and debugging.
 
 ## 🔶 Components Overview
