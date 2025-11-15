@@ -5,7 +5,7 @@ It also includes training notebooks, Word2Vec-based embeddings, and utilities fo
 
 ## 🔶 Components Overview
 
-### ### 1. `src/transformer.py`
+### 1. `src/transformer.py`
 Implements the full Transformer architecture based on the *Attention Is All You Need* paper.
 
 #### ✔ Core Modules
@@ -26,7 +26,7 @@ Supports:
 
 ---
 
-### ### 2. `src/MPNeuronInfo.py`
+### 2. `src/MPNeuronInfo.py`
 Contains fundamental neural components implemented from scratch:
 
 #### ✔ Layers
@@ -44,7 +44,7 @@ These mimic deep learning library internals but are written manually for transpa
 
 ---
 
-### ### 3. Tokenization & Embeddings
+### 3. Tokenization & Embeddings
 The project uses:
 
 - `nltk.word_tokenize` for tokenization  
@@ -57,7 +57,7 @@ Workflow:
 
 ---
 
-### ### 4. Training Notebook (`notebooks/transformer_training.ipynb`)
+### 4. Training Notebook (`notebooks/transformer_training.ipynb`)
 
 Shows complete flow:
 
